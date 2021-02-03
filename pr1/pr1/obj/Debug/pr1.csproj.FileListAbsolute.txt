@@ -1,0 +1,12 @@
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\bin\Debug\pr1.exe.config
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\bin\Debug\pr1.exe
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\bin\Debug\pr1.pdb
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\obj\Debug\pr1.csprojResolveAssemblyReference.cache
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\obj\Debug\pr1.exe
+C:\Temp\PKS71\MDK0302\pr1\pr1\pr1\obj\Debug\pr1.pdb
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\bin\Debug\pr1.exe.config
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\obj\Debug\pr1.exe
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\obj\Debug\pr1.pdb
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\bin\Debug\pr1.exe
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\bin\Debug\pr1.pdb
+C:\Temp\PKS71\MDK0302\practs\pr1\pr1\pr1\obj\Debug\pr1.csprojResolveAssemblyReference.cache
